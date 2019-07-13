@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">About ALC</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="main_text_view">Welcome To ALC 4.0</string>
+    <string name="btn_about_text">About ALC</string>
+    <string name="btn_profile_text">My Profile</string>
+    <string name="img_name">My Image</string>
+    <string name="user_name">Isaac A. Armah</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Ghana</string>
+    <string name="email">Email: isaacson878@gmail.com</string>
+    <string name="phone">Phone: (+233)20 5851 549</string>
+    <string name="slack">Slack Username: @KobbyKnight</string>
+</resources>
